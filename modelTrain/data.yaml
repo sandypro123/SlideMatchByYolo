@@ -1,0 +1,4 @@
+train:  'D:\SlideMatchByYolo\modelTrain\train-data\train' #训练集路径
+val:  'D:\SlideMatchByYolo\modelTrain\train-data\val' #测试集路径
+nc: 1 #标记对象数量
+names: ['code'] #标记对象名称
